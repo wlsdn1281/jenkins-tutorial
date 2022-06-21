@@ -41,3 +41,7 @@ test
 
 Jenkinsfile ## 대문자로 J 써야댐
 
+sudo usermod -a -G docker jenkins
+sudo chmod 777 /var/run/docker.sock
+
+
