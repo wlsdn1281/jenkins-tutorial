@@ -28,6 +28,7 @@ Manage Jenkins -> Manage Plugin
 Plugins to install
  - Amazon ECR
  - Docker Pipeline
+ - Kubernetes CLI
 
 Check: Restart Jenkins when installation is complete ....
 
